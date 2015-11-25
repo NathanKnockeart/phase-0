@@ -2,7 +2,7 @@
 https://github.com/NathanKnockeart/phase-0/blob/master/tracking-changes-reflection.md
 
 #Explain how to create a repository on GitHub and clone the repository to your local computer to a non-technical person.
-To create a repository on GitHub all you need to do click the "+ New Repository" button
+To create a repository on GitHub all you need to do click the "+ New Repository" button. When you want to clone a repository, click on the repository you want to clone, then got to the bottom right and copy to clipboard. Go to the folder you would like to clone your repo in and paste it
 #Describe what open source means.
 Open source is practice that allows you to share how you made your computer program and also allow others to edit it.
 #What do you think about Open Source? Does it make you nervous or protective? Does it feel like utopia?
